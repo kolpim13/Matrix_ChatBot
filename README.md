@@ -14,3 +14,6 @@ RGB2 Commands:
 1)pic [path to image]: convert image to the format sutable for driver and send it. Image size should be exactly the same or less then matrix size. 
 
 To commit a command, type comand group and a command belonging to this group.
+
+Example of usage.
+![example1](https://user-images.githubusercontent.com/49982100/159814478-84e25216-1285-4e25-ad65-531cf74ed6b7.png)
